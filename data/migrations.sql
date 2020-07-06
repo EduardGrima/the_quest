@@ -1,0 +1,6 @@
+CREATE TABLE "records" (
+	"id"	INTEGER UNIQUE,
+	"player"	TEXT NOT NULL,
+	"puntuacion"	INTEGER NOT NULL,
+	PRIMARY KEY("id" AUTOINCREMENT)
+)

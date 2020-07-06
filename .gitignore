@@ -1,2 +1,6 @@
 venv/
 __pycache__
+_config.py 
+.vscode
+record.db
+
